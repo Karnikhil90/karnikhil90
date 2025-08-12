@@ -21,10 +21,9 @@
 <br>
 
 🚀 **Currently Exploring:** Data Structures & Algorithms (DSA), MERN Stack Development, and Embedded Systems
-💡 **Core Skills:** Java, Python, C, and problem-solving for real-world applications
-🤝 **Let’s Connect:** [nikhilbroo@hotmail.com](mailto:nikhilbroo@hotmail.com)
-⚡ **Fun Fact:** I’m a self-taught developer passionate about building projects from the ground up — from PCB design to full-stack apps.
-
+💡 **Core Skills:** Java, Python, C, and problem-solving for real-world applications <br>
+🤝 **Let’s Connect:** [nikhilbroo@hotmail.com](mailto:nikhilbroo@hotmail.com)<br>
+⚡ **Fun Fact:** I’m a self-taught developer passionate about building projects from the ground up — from PCB design to full-stack apps.<br>
 </details>
 
 ### Connect With Me:
